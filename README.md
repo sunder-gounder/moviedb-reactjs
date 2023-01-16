@@ -19,5 +19,5 @@ A movie search app where you can get detailed information about movies. This app
 Clone this repository to your local machine and run
 
 ```sh
-$ cd Cinepedia
+$ cd Moviedb
 $ npm start
